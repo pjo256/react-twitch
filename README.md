@@ -1,5 +1,7 @@
 ![Breath of the Wild streams](./demo.png?raw=true))
 
+Written for an introductory React talk at NYU #tech@nyu
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 This is a simple React app that renders Twitch streams for `The Legend of Zelda: Breath of the Wild` written in [typescript](typescriptlang.org).
